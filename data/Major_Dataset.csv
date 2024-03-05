@@ -1,0 +1,20 @@
+﻿ID,Name,Gender,Age,Debt,Married,BankCustomer,Industry,Ethnicity,YearsEmployed,PriorDefault,Employed,CreditScore,DriversLicense,Citizen,Income
+100,Aliza Karki,M,27,400000,N,Y,ConsumerDiscretionary,Black,4,N,Y,7,Y,ByOtherMeans,67000
+101,Utkrista Parajuli,M,25,0,N,Y,Energy,Asian,2,N,Y,0,Y,ByOtherMeans,35000
+102,Prasan KC,M,48,30000,Y,N,CommunicationServices,Other,12,Y,Y,2,N,ByBirth,30000
+103,Aishwarya Timsina,F,62,370000,Y,Y,Financials,Black,17,N,N,8,N,ByBirth,60000
+104,Aastha Poudel,F,19,0,N,Y,Education,Asian,1,N,Y,0,Y,ByBirth,15000
+105,Ravi Budathoki,M,35,70000,Y,N,ConsumerDiscretionary,Other,8,Y,Y,5,N,Temporary,60000
+106,Rujal Poudel,M,87,25000,Y,Y,ConsumerStaples,White,20,Y,N,4,Y,Temporary,15000
+107,Sandesh Koirala,M,32,100000,Y,N,Healthcare,Asian,6,Y,Y,6,Y,Temporary,76000
+108,Utsav Regmi,M,55,0,Y,N,Education,Black,15,N,Y,1,Y,ByOtherMeans,78000
+109,Suyog Mainali,M,28,900000,N,Y,Financials,Latino,6,N,Y,8,Y,ByBirth,250000
+110,Shova Paneru,F,30,0,Y,Y,Healthcare,White,7,Y,N,0,Y,ByOtherMeans,60000
+111,Harka Rai,M,23,15000,N,Y,Education,Asian,2,N,N,2,N,ByBirth,15000
+112,Lakshmi Tamang,F,28,50000,Y,Y,Industrials,Latino,5,N,Y,9,N,Temporary,20000
+113,Anuja Poudel,F,25,70000,N,N,RealEstate,Black,2,Y,Y,8,Y,ByOtherMeans,22000
+114,Prasha Rai,F,42,350000,Y,Y,CommunicationServices,Asian,14,N,Y,9,Y,ByBirth,45000
+115,Priya Karki,F,31,80000,N,N,RealEstate,White,7,N,Y,5,Y,ByBirth,37000
+116,Hhemang Limbu,M,21,0,Y,N,Healthcare,Asian,1,Y,N,0,N,ByBirth,15000
+117,Tashi Yangdambe,F,29,320000,N,N,Financials,Black,3,N,Y,2,Y,Temporary,24000
+118,Sachina Adhikari,F,69,7000000,N,Y,Education,Latino,29,Y,Y,19,N,ByBirth,250000
